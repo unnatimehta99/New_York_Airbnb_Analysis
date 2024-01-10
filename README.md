@@ -1,4 +1,4 @@
-# Legal Cases Text Summarization
+# New York Airbnb Analysis 
 
 ## Introduction
 Airbnb, founded in 2007, has become the largest hotel company globally, boasting over 1 billion guests and 4 million hosts in 191 countries as of October 2021. Despite not owning any hotel buildings, the platform connects people seeking accommodations with those offering their properties. In early 2023, the company reported nearly $2 billion in net earnings for 2022, with a remarkable 20% annual growth. This success challenges traditional hotel networks.
