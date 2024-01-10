@@ -7,6 +7,7 @@ Airbnb, founded in 2007, has become the largest hotel company globally, boasting
 This project summarizes the exploratory data analysis of New York City, with data obtained from the Airbnb website, with the main goal to extract insights from the raw data.
 
 ## Data Overview
+Dataset: http://insideairbnb.com/explore/
 The data was extracted from the Inside Airbnb website. The file, named listings.csv, encompasses information as of May 2021. Opting for a condensed file over the complete dataset was considered appropriate for the preliminary analysis, serving the purposes of this study.
 
 ## Conclusion
